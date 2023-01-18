@@ -27,7 +27,7 @@ function close(){
 let resume = document.getElementById("resume");
 resume.onclick= function(){
     window.open(
-          "https://drive.google.com/file/d/1L92bc8r1tuYHO7YdHXQGi-uHnPE4z3Xv/view?usp=sharing", "_blank");
+          "https://drive.google.com/file/d/1CrbfTXuV0cJY1CKQS7585TDKT7gGS2uV/view?usp=share_link", "_blank");
 }
 let linkedin = document.getElementById("linkedin");
 linkedin.onclick= function(){
